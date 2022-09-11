@@ -1,0 +1,3 @@
+#/bin/bash
+echo "Project 2"
+echo $1
