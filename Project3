@@ -1,6 +1,6 @@
 !/bin/bash
 sleep 10
-echo 'Hello from Dummy Project 3'
+echo 'Hello from Dummy Project 3,editted the file'
 date
 echo $COMPANY_NAME
 echo 'COMPLETED'
