@@ -1,0 +1,6 @@
+!/bin/bash
+sleep 10
+echo 'Hello from Dummy Project 3'
+date
+echo $COMPANY_NAME
+echo 'COMPLETED'
